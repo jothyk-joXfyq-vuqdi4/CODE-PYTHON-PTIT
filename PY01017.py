@@ -15,5 +15,6 @@ if __name__ == '__main__':
     T = int(input())
     for t in range(T):
         print(slove(input()))
-    """ test change to dang sua tren vs code"""
+    """ test change toi dang sua tren github"""
+    """ toi dang sua lan 2 tren vs code"""
 
