@@ -1,0 +1,1 @@
+{"name":"Local: PY01011","url":"/Users/dangminhdat/CODE PY PTIT/PY01011.py","tests":[{"id":1786804685767,"input":"2\n30\n100","output":"22\n22 44 66 88"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/Users/dangminhdat/CODE PY PTIT/PY01011.py","group":"local","local":true}
