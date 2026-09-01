@@ -15,4 +15,5 @@ if __name__ == '__main__':
     T = int(input())
     for t in range(T):
         print(slove(input()))
+    """ test change""
 
